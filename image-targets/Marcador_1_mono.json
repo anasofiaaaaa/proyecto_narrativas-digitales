@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/Marcador_1_mono_luminance.png",
+  "resources": {
+    "originalImage": "Marcador_1_mono_original.png",
+    "croppedImage": "Marcador_1_mono_cropped.png",
+    "thumbnailImage": "Marcador_1_mono_thumbnail.png",
+    "luminanceImage": "Marcador_1_mono_luminance.png"
+  },
+  "name": "Marcador_1_mono",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 67,
+    "left": 0,
+    "width": 1192,
+    "height": 1589,
+    "isRotated": true,
+    "originalWidth": 1192,
+    "originalHeight": 1722
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795427888053,
+  "updated": 1795427888053
+}
